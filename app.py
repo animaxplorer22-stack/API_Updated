@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """
 Duino-Coin REST API - Rewritten
-Fixes: pagination, rate limits, no passwords in URLs, connection pooling
 
-Run with: python app.py
 """
 
 import sys
